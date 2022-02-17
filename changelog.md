@@ -1,6 +1,6 @@
 #### v1.0.3
 
-Create symlinks only if applet not found in path
+Create symlinks only for applets not found in the path
 
 #### v1.0.2
 
