@@ -1,11 +1,11 @@
 # BuiltIn-BusyBox
 
 ### Description
-Systemless BusyBox installing by the Magisk built-in busybox binary.
+Systemless module to install the Magisk built-in **busybox** binary and its applets.
 For more info, see:
 https://github.com/topjohnwu/ndk-busybox
 
-For more interesting applets, install also **ToyBox-Ext** module:
+**Tip**: To install even more interesting applets, install also **ToyBox-Ext** module:
 https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext
 
 ##### TEST
