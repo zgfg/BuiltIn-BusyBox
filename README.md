@@ -5,8 +5,8 @@ Systemless module to install the Magisk built-in **BusyBox** binary and its appl
 For more info, see:
 https://github.com/topjohnwu/ndk-busybox
 
-**Tip**: To install even more interesting applets, install also the **ToyBox-Ext** module:
-https://github.com/zgfg/ToyBox-Ext
+**Tip**: For even more interesting applets, install also the **ToyBox-Ext** module:
+https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext
 
 ##### TEST
 
